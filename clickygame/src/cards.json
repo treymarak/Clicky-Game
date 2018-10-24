@@ -2,73 +2,73 @@
     {
       "id": 1,
       "name": "Batman",
-      "image": "https://static1.squarespace.com/static/5106cf89e4b04827cc5fc5bb/t/5745aaaec2ea51621122d51d/1464183476327/",
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/87/Batman_DC_Comics.png",
       "count": 0
     },
     {
       "id": 2,
       "name": "Superman",
-      "image": "https://pbs.twimg.com/profile_images/898914544344592388/ZAja6hsl_400x400.jpg",
+      "image": "https://vignette.wikia.nocookie.net/superman/images/b/b1/Superman_Action_976_Gary_Frank.png/revision/latest?cb=20170501140424",
       "count": 0
     },
     {
       "id": 3,
       "name": "Wonder Woman",
-      "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2017/01/19/ac2e6746-ac5f-48ee-8786-24a64193bcca/resize/620x465/86408d6291d9c9af559480ab2b1e0cf7/wonder-woman-dc-art-2009.jpg",
+      "image": "http://www.pngall.com/wp-content/uploads/2016/07/Wonder-Woman-PNG-Pic.png",
       "count": 0
     },
     {
       "id": 4,
       "name": "The Flash",
-      "image": "https://vignette.wikia.nocookie.net/dcanimated/images/7/74/Flash.png/revision/latest?cb=20180707194546",
+      "image": "https://www.hyperborea.org/flash/images/jlu-flash.png",
       "count": 0
     },
     {
       "id": 5,
       "name": "Green Lantern",
-      "image": "http://www.bleedingcool.com/wp-content/uploads//2010/11/green2-570x427.jpg?x70969",
+      "image": "https://orig00.deviantart.net/3b9c/f/2012/349/3/f/dc_new_52_green_lantern_animated_by_kyomusha-d5nlbs4.png",
       "count": 0
     },
     {
       "id": 6,
       "name": "Aquaman",
-      "image": "https://revengeofthefans.com/wp-content/uploads/2018/02/gallery_aquaman-traditional-costume-jason-momoa.jpeg",
+      "image": "https://img00.deviantart.net/6dd3/i/2017/247/b/c/aquaman__superman__the_animated_series__by_alexbadass-dbmc9js.png",
       "count": 0
     },
     {
       "id": 7,
       "name": "Iron Man",
-      "image": "http://screencrush.com/files/2012/06/ironmancartoon2.jpg?w=980&q=75",
+      "image": "http://pngimg.com/uploads/ironman/ironman_PNG66.png",
       "count": 0
     },
     {
       "id": 8,
       "name": "The Hulk",
-      "image": "https://static.comicvine.com/uploads/original/3/32119/908764-ww_hulk.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/59/Hulk_%28comics_character%29.png",
       "count": 0
     },
     {
       "id": 9,
       "name": "Thor",
-      "image": "https://memesbams.com/wp-content/uploads/2017/11/amazing-thor-cartoon-pictures.jpg",
+      "image": "https://clipart.info/images/ccovers/1495742113thor-cartoon-clipart-transparent-background.png",
       "count": 0
     },
     {
       "id": 10,
       "name": "Captain America",
-      "image": "https://vignette.wikia.nocookie.net/avengersearthsmightiestheroes/images/4/4f/Captain_america_aemh.png/revision/latest?cb=20121107030239",
+      "image": "https://vignette.wikia.nocookie.net/disney/images/6/61/Avengers_Ultron_Revloutions-Captain_america.png/revision/latest?cb=20170706204556",
       "count": 0
     },
     {
       "id": 11,
       "name": "Spider-Man",
-      "image": "http://getdrawings.com/cliparts/spiderman-cartoon-clipart-30.jpg",
+      "image": "https://mbtskoudsalg.com/images/spiderman-cartoon-png-7.png",
       "count": 0
     },
     {
       "id": 12,
       "name": "Wolverine",
-      "image": "https://vignette.wikia.nocookie.net/marveldatabase/images/e/e2/James_Howlett_%28Earth-8096%29_00.png/revision/latest?cb=20121021011839",
+      "image": "https://vignette.wikia.nocookie.net/deathbattle/images/4/4d/Wolverine_3.png/revision/latest?cb=20160629195859",
       "count": 0
     }
   ]
